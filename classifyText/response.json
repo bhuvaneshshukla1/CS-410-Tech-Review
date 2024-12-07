@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "/Law & Government/Military/Veterans",
+      "confidence": 0.9261891,
+      "severity": 0
+    },
+    {
+      "name": "/News/Local News",
+      "confidence": 0.3861851,
+      "severity": 0
+    },
+    {
+      "name": "/Hobbies & Leisure/Clubs & Organizations/Other",
+      "confidence": 0.18921234,
+      "severity": 0
+    },
+    {
+      "name": "/News/Other",
+      "confidence": 0.1606461,
+      "severity": 0
+    },
+    {
+      "name": "/Law & Government/Military/Other",
+      "confidence": 0.1275201,
+      "severity": 0
+    }
+  ],
+  "languageCode": "en",
+  "languageSupported": true
+}
