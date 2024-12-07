@@ -1,0 +1,30 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.951,
+    "score": 0.059
+  },
+  "languageCode": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh great, the internet is down again.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.979,
+        "score": -0.801
+      }
+    },
+    {
+      "text": {
+        "content": "What a perfect time to get some work done!",
+        "beginOffset": 38
+      },
+      "sentiment": {
+        "magnitude": 0.973,
+        "score": 0.92
+      }
+    }
+  ],
+  "languageSupported": true
+}
