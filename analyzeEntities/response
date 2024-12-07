@@ -1,0 +1,276 @@
+{
+  "entities": [
+    {
+      "name": "59,000",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "59.000000"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "59,000",
+            "beginOffset": 219
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "59,000",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "59000"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "59,000",
+            "beginOffset": 219
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "1"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 266
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "Champaign–Urbana",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Champaign–Urbana",
+            "beginOffset": 146
+          },
+          "type": "PROPER",
+          "probability": 0.933
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 59
+          },
+          "type": "PROPER",
+          "probability": 0.527
+        },
+        {
+          "text": {
+            "content": "Illinois",
+            "beginOffset": 184
+          },
+          "type": "PROPER",
+          "probability": 0.925
+        }
+      ]
+    },
+    {
+      "name": "U of I",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "U of I",
+            "beginOffset": 51
+          },
+          "type": "PROPER",
+          "probability": 0.902
+        }
+      ]
+    },
+    {
+      "name": "UIUC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "UIUC",
+            "beginOffset": 45
+          },
+          "type": "PROPER",
+          "probability": 0.914
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 194
+          },
+          "type": "PROPER",
+          "probability": 0.921
+        },
+        {
+          "text": {
+            "content": "United States",
+            "beginOffset": 326
+          },
+          "type": "PROPER",
+          "probability": 0.906
+        }
+      ]
+    },
+    {
+      "name": "University of Illinois",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Illinois",
+            "beginOffset": 72
+          },
+          "type": "PROPER",
+          "probability": 0.906
+        },
+        {
+          "text": {
+            "content": "University of Illinois",
+            "beginOffset": 240
+          },
+          "type": "PROPER",
+          "probability": 0.914
+        }
+      ]
+    },
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "University of Illinois Urbana-Champaign",
+            "beginOffset": 4
+          },
+          "type": "PROPER",
+          "probability": 0.906
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": 178
+          },
+          "type": "COMMON",
+          "probability": 0.707
+        }
+      ]
+    },
+    {
+      "name": "enrollment",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "enrollment",
+            "beginOffset": 308
+          },
+          "type": "COMMON",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "land-grant research university",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "land-grant research university",
+            "beginOffset": 108
+          },
+          "type": "COMMON",
+          "probability": 0.582
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 266
+          },
+          "type": "COMMON",
+          "probability": 0.894
+        }
+      ]
+    },
+    {
+      "name": "students",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "students",
+            "beginOffset": 226
+          },
+          "type": "COMMON",
+          "probability": 0.902
+        }
+      ]
+    },
+    {
+      "name": "universities",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "universities",
+            "beginOffset": 292
+          },
+          "type": "COMMON",
+          "probability": 0.714
+        }
+      ]
+    }
+  ],
+  "languageCode": "en",
+  "languageSupported": true
+}
