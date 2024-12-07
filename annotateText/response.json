@@ -1,0 +1,1908 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "VETERANS saluted Worcester's first ever breakfast club for ex-soldiers which won over hearts, minds and bellies.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.986,
+        "score": 0.961
+      }
+    },
+    {
+      "text": {
+        "content": "The Worcester Breakfast Club for HM Forces Veterans met at the Postal Order in Foregate Street at 10am on Saturday.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.106,
+        "score": 0.018
+      }
+    },
+    {
+      "text": {
+        "content": "The club is designed to allow veterans a place to meet, socialise, eat and drink, giving hunger and loneliness their marching orders.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.873,
+        "score": -0.517
+      }
+    },
+    {
+      "text": {
+        "content": "Father-of-two Dave Carney, aged 43, of Merrimans Hill, Worcester, set up the club after being inspired by other similar clubs across the country.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.123,
+        "score": 0.098
+      }
+    },
+    {
+      "text": {
+        "content": "He said: \"As you can see from the picture, we had a good response.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.97,
+        "score": 0.936
+      }
+    },
+    {
+      "text": {
+        "content": "Five out of the 10 that attended said they saw the article in the newspaper and turned up.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.08,
+        "score": 0.033
+      }
+    },
+    {
+      "text": {
+        "content": "\"We even had an old chap travel from Droitwich and he was late on parade by three hours.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.932,
+        "score": -0.798
+      }
+    },
+    {
+      "text": {
+        "content": "\"It's generated a lot of interest and I estimate (from other veterans who saw the article) that next month's meeting will attract about 20 people.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.907,
+        "score": 0.879
+      }
+    },
+    {
+      "text": {
+        "content": "Onwards and upwards.\"",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.519,
+        "score": 0.475
+      }
+    },
+    {
+      "text": {
+        "content": "He said the management at the pub had been extremely hospitable to them.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.975,
+        "score": 0.917
+      }
+    },
+    {
+      "text": {
+        "content": "Mr Carney said: \"They bent over backwards for us.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.936,
+        "score": 0.836
+      }
+    },
+    {
+      "text": {
+        "content": "They really looked after us well.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.983,
+        "score": 0.933
+      }
+    },
+    {
+      "text": {
+        "content": "That is the best choice of venue I could have made.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.981,
+        "score": 0.928
+      }
+    },
+    {
+      "text": {
+        "content": "They even put 'reserved for the armed forces'.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.232,
+        "score": -0.014
+      }
+    },
+    {
+      "text": {
+        "content": "Promoted stories   \nThe reserve veteran with the Royal Engineers wanted to go to a breakfast club but found the nearest ones were in Bromsgrove and Gloucester so he decided to set up his own, closer to home.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.064,
+        "score": 0.027
+      }
+    },
+    {
+      "text": {
+        "content": "He was influenced by Derek Hardman who set up a breakfast club for veterans in Hull and Andy Wilson who set one up in Newcastle.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.078,
+        "score": 0.051
+      }
+    },
+    {
+      "text": {
+        "content": "He said the idea has snowballed and there were now 70 similar clubs across the country and even some in Germany.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.769,
+        "score": 0.75
+      }
+    },
+    {
+      "text": {
+        "content": "Mr Carney said with many Royal British Legion clubs closing he wanted veterans and serving personnel to feel they had somewhere they could go for good grub, beer and banter to recapture the comradery of being in the forces.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.695,
+        "score": 0.628
+      }
+    },
+    {
+      "text": {
+        "content": "The Postal Order was chosen because of its central location and its proximity to the railway station and hotels and reasonably priced food and drink.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.881,
+        "score": 0.848
+      }
+    },
+    {
+      "text": {
+        "content": "The management of the pub have even given the veterans a designated area within the pub.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.981,
+        "score": 0.95
+      }
+    },
+    {
+      "text": {
+        "content": "Share article",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.251,
+        "score": -0.068
+      }
+    },
+    {
+      "text": {
+        "content": "The next meeting is at the Postal Order on Saturday, October 3 at 10am.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.118,
+        "score": 0.032
+      }
+    },
+    {
+      "text": {
+        "content": "The breakfast club meets on the first Saturday of each month for those who want to attend in future.",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.45,
+        "score": 0.399
+      }
+    }
+  ],
+  "entities": [
+    {
+      "name": "Saturday, October 3 at 10am.",
+      "type": "DATE",
+      "metadata": {
+        "month": "10",
+        "day": "3"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "Saturday, October 3 at 10am.",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "10"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "10",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "43",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "43"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "43",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "10"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "10",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "20"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "20",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "70",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "70"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "70",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "3"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "3",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "10"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "10",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "two",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "2"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "two",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "Five",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "5"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "Five",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "three",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "3"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "three",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "1"
+      },
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN",
+          "probability": 1
+        }
+      ]
+    },
+    {
+      "name": "Andy Wilson",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Andy Wilson",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.902
+        }
+      ]
+    },
+    {
+      "name": "Bromsgrove",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Bromsgrove",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "Carney",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Carney",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.933
+        },
+        {
+          "text": {
+            "content": "Carney",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.906
+        }
+      ]
+    },
+    {
+      "name": "Dave Carney",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Dave Carney",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.925
+        }
+      ]
+    },
+    {
+      "name": "Derek Hardman",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Derek Hardman",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "Droitwich",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Droitwich",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.835
+        }
+      ]
+    },
+    {
+      "name": "Father-of-two",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Father-of-two",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.761
+        }
+      ]
+    },
+    {
+      "name": "Foregate Street",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Foregate Street",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.914
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Germany",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.875
+        }
+      ]
+    },
+    {
+      "name": "Gloucester",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Gloucester",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "name": "HM Forces Veterans",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "HM Forces Veterans",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.695
+        }
+      ]
+    },
+    {
+      "name": "Hull",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Hull",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.734
+        }
+      ]
+    },
+    {
+      "name": "Merrimans Hill",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Merrimans Hill",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.921
+        }
+      ]
+    },
+    {
+      "name": "Mr",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "name": "Mr",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Mr",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.843
+        }
+      ]
+    },
+    {
+      "name": "Newcastle",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Newcastle",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "name": "Postal Order",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Postal Order",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.746
+        },
+        {
+          "text": {
+            "content": "Postal Order",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.539
+        },
+        {
+          "text": {
+            "content": "Postal Order",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.824
+        }
+      ]
+    },
+    {
+      "name": "Royal British Legion",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Royal British Legion",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.914
+        }
+      ]
+    },
+    {
+      "name": "Royal Engineers",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Royal Engineers",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.902
+        }
+      ]
+    },
+    {
+      "name": "VETERANS",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "VETERANS",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.429
+        }
+      ]
+    },
+    {
+      "name": "Worcester",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Worcester",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.792
+        },
+        {
+          "text": {
+            "content": "Worcester",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.937
+        }
+      ]
+    },
+    {
+      "name": "Worcester Breakfast Club",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "Worcester Breakfast Club",
+            "beginOffset": -1
+          },
+          "type": "PROPER",
+          "probability": 0.875
+        }
+      ]
+    },
+    {
+      "name": "area",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "area",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.804
+        }
+      ]
+    },
+    {
+      "name": "armed forces",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "armed forces",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "name": "article",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "article",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.447
+        }
+      ]
+    },
+    {
+      "name": "article",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "article",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.636
+        }
+      ]
+    },
+    {
+      "name": "article",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "article",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.644
+        }
+      ]
+    },
+    {
+      "name": "banter",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "banter",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.863
+        }
+      ]
+    },
+    {
+      "name": "beer",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "beer",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.562
+        }
+      ]
+    },
+    {
+      "name": "bellies",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "bellies",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.812
+        }
+      ]
+    },
+    {
+      "name": "breakfast club",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "breakfast club",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.527
+        }
+      ]
+    },
+    {
+      "name": "breakfast club",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "breakfast club",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.812
+        }
+      ]
+    },
+    {
+      "name": "breakfast club",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "breakfast club",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.875
+        }
+      ]
+    },
+    {
+      "name": "breakfast club",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "breakfast club",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.835
+        }
+      ]
+    },
+    {
+      "name": "chap",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "chap",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.859
+        }
+      ]
+    },
+    {
+      "name": "choice",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "choice",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.652
+        }
+      ]
+    },
+    {
+      "name": "club",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "club",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.914
+        }
+      ]
+    },
+    {
+      "name": "club",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "club",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.906
+        }
+      ]
+    },
+    {
+      "name": "clubs",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "clubs",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.894
+        }
+      ]
+    },
+    {
+      "name": "clubs",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "clubs",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.816
+        }
+      ]
+    },
+    {
+      "name": "clubs",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "clubs",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.863
+        }
+      ]
+    },
+    {
+      "name": "comradery",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "comradery",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "country",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.863
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "country",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.871
+        }
+      ]
+    },
+    {
+      "name": "drink",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.492
+        }
+      ]
+    },
+    {
+      "name": "ex-soldiers",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "ex-soldiers",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.878
+        }
+      ]
+    },
+    {
+      "name": "food",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.539
+        }
+      ]
+    },
+    {
+      "name": "forces",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "forces",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.554
+        }
+      ]
+    },
+    {
+      "name": "grub",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "grub",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.769
+        }
+      ]
+    },
+    {
+      "name": "hearts",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "hearts",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.839
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.847
+        }
+      ]
+    },
+    {
+      "name": "hotels",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "hotels",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.777
+        }
+      ]
+    },
+    {
+      "name": "hunger",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "hunger",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.878
+        }
+      ]
+    },
+    {
+      "name": "idea",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "idea",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.902
+        }
+      ]
+    },
+    {
+      "name": "interest",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "interest",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "location",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "location",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.757
+        }
+      ]
+    },
+    {
+      "name": "loneliness",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "loneliness",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.839
+        }
+      ]
+    },
+    {
+      "name": "management",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "management",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.726
+        }
+      ]
+    },
+    {
+      "name": "management",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "management",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.746
+        }
+      ]
+    },
+    {
+      "name": "marching orders",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "marching orders",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "name": "meeting",
+      "type": "EVENT",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "meeting",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.466
+        }
+      ]
+    },
+    {
+      "name": "meeting",
+      "type": "EVENT",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "meeting",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.435
+        }
+      ]
+    },
+    {
+      "name": "minds",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "minds",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.816
+        }
+      ]
+    },
+    {
+      "name": "newspaper",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "newspaper",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.675
+        }
+      ]
+    },
+    {
+      "name": "ones",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "ones",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.367
+        }
+      ]
+    },
+    {
+      "name": "parade",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "parade",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.816
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.898
+        }
+      ]
+    },
+    {
+      "name": "personnel",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "personnel",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.652
+        }
+      ]
+    },
+    {
+      "name": "picture",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "picture",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.605
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.441
+        }
+      ]
+    },
+    {
+      "name": "proximity",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "proximity",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "pub",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.789
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "pub",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "pub",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.824
+        }
+      ]
+    },
+    {
+      "name": "railway station",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "railway station",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.843
+        }
+      ]
+    },
+    {
+      "name": "reserve veteran",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "reserve veteran",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.687
+        }
+      ]
+    },
+    {
+      "name": "response",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "response",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.894
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.781
+        }
+      ]
+    },
+    {
+      "name": "somewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "somewhere",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.566
+        }
+      ]
+    },
+    {
+      "name": "stories",
+      "type": "OTHER",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "stories",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.617
+        }
+      ]
+    },
+    {
+      "name": "venue",
+      "type": "LOCATION",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "venue",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.761
+        }
+      ]
+    },
+    {
+      "name": "veterans",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "veterans",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "veterans",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "veterans",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.875
+        }
+      ]
+    },
+    {
+      "name": "veterans",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "veterans",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "veterans",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "veterans",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.882
+        }
+      ]
+    },
+    {
+      "name": "veterans",
+      "type": "PERSON",
+      "metadata": {},
+      "mentions": [
+        {
+          "text": {
+            "content": "veterans",
+            "beginOffset": -1
+          },
+          "type": "COMMON",
+          "probability": 0.89
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 13.89,
+    "score": 0.404
+  },
+  "languageCode": "en",
+  "categories": [
+    {
+      "name": "/Law & Government/Military/Veterans",
+      "confidence": 0.9261891,
+      "severity": 0
+    },
+    {
+      "name": "/News/Local News",
+      "confidence": 0.3861851,
+      "severity": 0
+    },
+    {
+      "name": "/Hobbies & Leisure/Clubs & Organizations/Other",
+      "confidence": 0.18921234,
+      "severity": 0
+    },
+    {
+      "name": "/News/Other",
+      "confidence": 0.1606461,
+      "severity": 0
+    },
+    {
+      "name": "/Law & Government/Military/Other",
+      "confidence": 0.1275201,
+      "severity": 0
+    }
+  ],
+  "moderationCategories": [
+    {
+      "name": "Toxic",
+      "confidence": 0.110573605,
+      "severity": 0
+    },
+    {
+      "name": "Insult",
+      "confidence": 0.043252382,
+      "severity": 0
+    },
+    {
+      "name": "Profanity",
+      "confidence": 0.020553036,
+      "severity": 0
+    },
+    {
+      "name": "Derogatory",
+      "confidence": 0.028921332,
+      "severity": 0
+    },
+    {
+      "name": "Sexual",
+      "confidence": 0.010127006,
+      "severity": 0
+    },
+    {
+      "name": "Death, Harm & Tragedy",
+      "confidence": 0.2857143,
+      "severity": 0
+    },
+    {
+      "name": "Violent",
+      "confidence": 0.05284553,
+      "severity": 0
+    },
+    {
+      "name": "Firearms & Weapons",
+      "confidence": 0.10526316,
+      "severity": 0
+    },
+    {
+      "name": "Public Safety",
+      "confidence": 0.10638298,
+      "severity": 0
+    },
+    {
+      "name": "Health",
+      "confidence": 0.09630459,
+      "severity": 0
+    },
+    {
+      "name": "Religion & Belief",
+      "confidence": 0.10110294,
+      "severity": 0
+    },
+    {
+      "name": "Illicit Drugs",
+      "confidence": 0.057377048,
+      "severity": 0
+    },
+    {
+      "name": "War & Conflict",
+      "confidence": 0.9791667,
+      "severity": 0
+    },
+    {
+      "name": "Politics",
+      "confidence": 0.05986696,
+      "severity": 0
+    },
+    {
+      "name": "Finance",
+      "confidence": 0.041322313,
+      "severity": 0
+    },
+    {
+      "name": "Legal",
+      "confidence": 0.031746034,
+      "severity": 0
+    }
+  ],
+  "languageSupported": true
+}
